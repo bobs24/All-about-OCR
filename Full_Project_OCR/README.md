@@ -12,20 +12,23 @@ As a learner on dibimbing.id, I encounter scenarios where I need to process and 
 To assess the accuracy of the OCR results, I utilize the Levenshtein distance metric. This allows me to compare the OCR-generated text with the ground truth, providing insights into the effectiveness of the models.
 
 ## Components and Tools
-1. Programming Language: [https://www.python.org/static/community_logos/python-logo-master-v3-TM.png]
+1. Programming Language: Python
 2. OCR Toolbox: mmocr - An open-source toolbox for OCR tasks.
 3. Recognition Models:
-4. dbnet - for text detection
-5. svtr - for text recognition
-6. Annotation Tool: Label-Studio - Facilitating the creation of ground truth data for training and evaluation.
-7. Ground Truth: The reference data against which OCR results are compared for evaluation.
+ - dbnet - for text detection
+ - svtr - for text recognition
+4. Annotation Tool: Label-Studio - Facilitating the creation of ground truth data for training and evaluation.
+5. Ground Truth: The reference data against which OCR results are compared for evaluation.
 
 ## How to Use
 1. Clone the Repository: 
 ```
 git clone https://github.com/your-username/ocr-project.git
 ```
-2. Install Dependencies: pip install -r requirements.txt
+2. Install Dependencies: 
+```
+pip3 install -r requirements.txt
+```
 3. Run the OCR Pipeline:
 Execute the main OCR script to process student answers, perform text detection, recognition, and generate results.
 4. Evaluate Results:
