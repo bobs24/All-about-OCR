@@ -1,0 +1,3 @@
+2. Please give several example of the usage of OCR!
+
+Commonly used in document digitalization, converting scanned paper documents into editable and searchable formats, for instances, OCR is employed in automated data extraction from invoices, receipts, and forms

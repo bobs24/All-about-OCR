@@ -1,0 +1,3 @@
+3. please desribe how an OCR pipeline for text in image translation, such as in google translate should be
+
+In an OCR pipeline for the text in image translation like google translate, the system first employs OCR to extract text from the images. Subsequently, the recognized text is processes and translated using machine translation algorithm. The output is then presented to the user, enabling seamless conversion of text content from image into different language and understanding across linguistics barrier

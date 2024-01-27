@@ -1,0 +1,3 @@
+1. Please explain what OCR is ?
+
+An algorithm that turn typed or handwritten text and printed images containing text into machine-readable digital data format

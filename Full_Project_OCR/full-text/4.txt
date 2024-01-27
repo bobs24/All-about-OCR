@@ -1,0 +1,5 @@
+4. Please elaborate an example of OCR usage for document understanding!
+
+1 text extraction : OCR is used to extract text from scanned or photo graphed documents, turning images into machine-readable text
+2 data structuring : The extracted text is then analyzed and structured using natural language processing techniques such as names, dates, amount, and organization
+3 automated processing : Document understanding through OCR allows for automated processing of large volumes of documents
